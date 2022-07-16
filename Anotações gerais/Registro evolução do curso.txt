@@ -1,3 +1,4 @@
 Registro evolução do Bootcamp
 
 14/07/2022 - Criação do primeiro repositório e conclusão do primeiro desafio de projeto.
+16/07/2022 - Criação site com navegação entre páginas, imagens, favicon, links externos, listas, abreviações e etc.
