@@ -1,4 +1,11 @@
 Registro evolução do Bootcamp
 
 14/07/2022 - Criação do primeiro repositório e conclusão do primeiro desafio de projeto.
-16/07/2022 - Criação site com navegação entre páginas, imagens, favicon, links externos, listas, abreviações e etc.
+
+16/07/2022 - Criação site com navegação entre páginas, imagens, favicon, links externos,
+listas, abreviações e etc.
+
+17/07/2022 - Criação da pasta desafio 02(percebi que não estava salvando versões e sim
+salvando por cima, dessa forma não conseguia ver a evolução no repositório). 
+Criação de site com os primeiros estilos em css, adicionando
+vídeos/áudios/imagens dinâmicas.
