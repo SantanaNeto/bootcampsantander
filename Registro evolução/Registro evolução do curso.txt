@@ -9,3 +9,5 @@ listas, abreviações e etc.
 salvando por cima, dessa forma não conseguia ver a evolução no repositório). 
 Criação de site com os primeiros estilos em css, adicionando
 vídeos/áudios/imagens dinâmicas.
+
+18/07/2022 - Revisando e corrigindo erros do commit anterior(17/07/2022).
