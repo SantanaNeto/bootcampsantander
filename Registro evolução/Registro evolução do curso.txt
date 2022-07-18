@@ -11,3 +11,4 @@ Criação de site com os primeiros estilos em css, adicionando
 vídeos/áudios/imagens dinâmicas.
 
 18/07/2022 - Revisando e corrigindo erros do commit anterior(17/07/2022).
+18/07/2022 - Adicionando recursos visuais com CSS
